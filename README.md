@@ -6,6 +6,14 @@ Los datos manipulados y analizados en esta solución provienen en formato JSON, 
 
 [Link a la investigación](https://github.com/ezebinker/DatosAPI-BCRA/blob/master/Datos_API_BCRA.ipynb)
 
+## Consultas realizadas
+
+* Valor del Dólar
+* Milestones
+* Inflación mensual
+* Diferencia entre inflación interanual versus esperada
+* UVA (Unidad de Valor Adquisitivo)
+
 ## Tecnologías implementadas 
 Se utilizó Google Colaboratory para levantar un nodo de Jupyter Notebook, y Python como lenguaje de programación. 
 Sobre la instancia de Python se utilizaron las siguientes librerías: 
@@ -14,7 +22,3 @@ Sobre la instancia de Python se utilizaron las siguientes librerías:
 * Pandas
 * Pyplot (Matplotlib)
 * Numpy
-
-
-
-**Este proyecto se encuentra actualmente en desarrollo.**
